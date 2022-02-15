@@ -1,4 +1,8 @@
-### Hi there!  I'm not sure but you may have taken a wrong turn somewhere. 😄👋
+### Hi there!  I'm not sure but you may have taken a wrong turn somewhere. 😄
+
+### Since you are here, I have some repositories that I use to show what I've been learning.  
+
+
 
 <!--
 **CoolPoole/CoolPoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
