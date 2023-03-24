@@ -1,6 +1,4 @@
-### Hi there!  I'm not sure but you may have taken a wrong turn somewhere. 😄
-
-### Since you are here, I have some repositories that I use to show what I've been learning.  
+### Hi there!  I'm not sure but you may have taken a wrong turn somewhere. 😄 
 
 
 
